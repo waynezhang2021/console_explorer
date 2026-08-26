@@ -117,7 +117,7 @@ While it may run in Windows Terminal, visual glitches (especially screen clearin
 
 **Do not resize the Window(set it to 120x30)** – or edit the code for your own liking. Configuration file support may be added in future versions, but auto-resizing is impossible because the screen buffer does not resize with the visual window.
 
-No file deletion – the delete function has been intentionally disabled to prevent accidental data loss. It may be fixed in future versions by using transacted file operations.
+**No file deletion** – the delete function has been intentionally disabled to prevent accidental data loss. It may be fixed in future versions by using transacted file operations.
 
 ## Author & Contributing
 
